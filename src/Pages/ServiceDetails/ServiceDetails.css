@@ -1,0 +1,28 @@
+.serviceDetails-card img{
+  height:250px;
+
+  width:100%;
+}
+
+.serviceDetails-card{
+   height: 460px;
+   width:450px;
+   transition:.3s;
+   box-shadow: 10px 10px 8px 5px #5e4242;
+}
+.serviceDetails-card:hover{
+   box-shadow: 0 0 11px rgba(161, 209, 201, 0.808)!important; 
+   transform: scale(1.05);
+}
+
+
+
+
+/* .service-card{
+   height: 450px;
+   transition: .3s;
+}
+.service-card:hover{
+   box-shadow: 0 0 11px rgba(145, 228, 214, 0.808)!important; 
+   transform: scale(1.05);
+} */

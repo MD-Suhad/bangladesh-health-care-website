@@ -1,0 +1,12 @@
+
+.workDetails-card img{
+   height:100%;
+   width: 80%;
+}
+
+
+
+.workDetails-card:hover{
+   box-shadow: 0 0 11px rgba(161, 209, 201, 0.808)!important; 
+   transform: scale(1.01);
+}

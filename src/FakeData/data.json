@@ -1,0 +1,56 @@
+[
+   {
+      "key":1,
+      "name":"Digital Marketing",
+      "Description":"Maximize your online presence with effective digital marketing that drives patients to your optimized, highly engaging website.",
+      "pic":"https://coderstrustbd.com/wp-content/uploads/2021/06/dgm-n.jpg"
+   },
+   {
+      "key":2,
+      "name":"Healthcare Marketing Audit & Plan" ,
+      "Description":"Get a roadmap to success with a 12-month marketing plan that gives you a personalized set of strategies to meet your specific marketing goals. " ,
+      "pic":" https://www.digitalauthority.me/wp-content/uploads/2019/02/Codrinarsene-02-2.jpg"
+   },
+   {
+      "key":3,
+      "name":"Complete Marketing Management" ,
+      "Description":" Let our experts help to guide your healthcare practice toward better marketing ROI (return on investment) and happier patients." ,
+      "pic":"https://www.growprac.co.za/images/complete-marketing-management/working-relationship.jpg "
+   },
+   {
+      "key":4,
+      "name":"Advertising" ,
+      "Description":" Watch your business grow with highly targeted advertising campaigns designed to successfully market your brand and achieve specific, measurable goals." ,
+      "pic":"https://1.bp.blogspot.com/-HUHpztk96KI/X5nX2-W-I7I/AAAAAAAAJ_I/CmgkfNFAXrE2o8nQ6NsuiILSy2sSBglUQCLcBGAsYHQ/s900/2.jpg "
+   },
+   {
+      "key":5,
+      "name":"Branding" ,
+      "Description":"Communicate your unique value proposition with high-impact visual and verbal messaging — from your logo and signage to every promotion we create. " ,
+      "pic":" https://www.imaginasium.com/hubfs/Imported_Blog_Media/Branding-Header-Desktop.jpg"
+   },
+   {
+      "key":6,
+      "name":"Doctor Referral Building" ,
+      "Description":"Build and maintain powerful and profitable relationships with referring physicians through our customized training programs. " ,
+      "pic":"https://thumbs.dreamstime.com/z/friendly-smiling-female-doctor-gives-mature-male-patient-prescription-referral-her-office-medical-clinic-patient-215112267.jpg "
+   },
+   {
+      "key":7,
+      "name":"Reputation Management" ,
+      "Description":"Let us help you improve and protect your reputation for maximum patient interest, trust and satisfaction. " ,
+      "pic":" https://www.curvearro.com/wp-content/uploads/2019/11/Online-reputation-management_Curvearro.jpeg"
+   },
+   {
+      "key":8,
+      "name":"Staff Training" ,
+      "Description":"We'll train your team to best handle patient inquiries, convert to appointments, market to referrers and more. " ,
+      "pic":"https://3.imimg.com/data3/KH/DV/MY-22541489/hospital-staff-trainings-500x500.jpg "
+   },
+   {
+      "key":9,
+      "name":"Content Marketing" ,
+      "Description":"Our experienced healthcare marketing strategists establish your brand’s expertise, authority, and trust through data-driven strategy, specialized content creation, and multi-channel distribution. " ,
+      "pic":"http://epitychiaconsulting.com/wp-content/uploads/2017/04/ContentMarketing810.jpg "
+   }
+]
